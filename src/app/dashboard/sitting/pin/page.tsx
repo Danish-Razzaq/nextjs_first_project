@@ -1,7 +1,7 @@
 const password =()=>{
 
     return (
-        <div>"This is the password Page"</div>
+        <div>This is the password Page</div>
     )
 };
 
