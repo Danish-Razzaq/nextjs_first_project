@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div>
         <div>Home Page </div>
-    <div className='flex gap-17 py-17 px-17'>
+    <div className="flex gap-17 py-17 px-17">
       <ol>
         <li><Link href="/dashboard">Dashboard</Link></li>
         <li><Link href="/contect">Contect</Link></li>
